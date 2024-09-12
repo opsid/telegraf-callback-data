@@ -6,11 +6,11 @@ when using inline buttons in messages
 ### Installation
 
 ```
-$ npm install telegraf-callback-data
+$ npm install --save https://github.com/opsid/telegraf-callback-data
 ```
 or using `yarn`:
 ```
-$ yarn add telegraf-callback-data
+$ yarn add https://github.com/opsid/telegraf-callback-data
 ```
 
 ### Example
